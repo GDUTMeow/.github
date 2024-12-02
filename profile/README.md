@@ -3,6 +3,10 @@
 > [!important]
 >
 > 起这个名字是因为工一有一只白猫异色瞳猫猫，超可爱~~~
+>
+> <div align="center">
+> <img src="https://cdn.bili33.top/gh/GDUTMeow/.github/pic/cat.jpg" height=50% width=50%>
+> </div>
 
 本仓库是我拿来存放我在窝工（[广东工业大学](https://www.gdut.edu.cn/)）做的各种作业/设计的，因为想跟我的个人账户分开，所以就创建了这样的一个组织
 
