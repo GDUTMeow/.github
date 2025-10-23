@@ -10,6 +10,8 @@
 
 本仓库是我拿来存放我在窝工（[广东工业大学](https://www.gdut.edu.cn/)）做的各种作业/设计的，因为想跟我的个人账户分开，所以就创建了这样的一个组织
 
+如果你需要找的是 CTF 题目，你需要前往 [@GDUTMeow-Challenges](https://github.com/GDUTMeow-Challenges) 查看
+
 下面是各种联系方式
 
 - Telegram 私信bot：[@PaffCreamPMBot](https://t.me/PaffCreamPMBot)
