@@ -1,5 +1,6 @@
 <div align="center">
-<h1>GDUTMeow</h1>
+  <img src="https://cdn.bili33.top/gh/GDUTMeow/.github/pic/cat-in-bin.jpg" height="10%" width="10%">
+  <h1>GDUTMeow</h1>
 </div>
 
 > [!important]
