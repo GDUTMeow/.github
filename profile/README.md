@@ -54,7 +54,6 @@
 - [适用于本校的 Openwrt 路由器脚本](https://github.com/GDUTMeow/WrtScript)
 - [GDUT 无线网络自动登录脚本](https://github.com/GDUTMeow/GDUT-Wlan-Login)
 - [总务处报修绕过微信浏览器检测](https://github.com/GDUTMeow/NoWechatOnPropertyWeb)
-- 心理课正确答案着色脚本（待公开）
 
 ## 个人设计类
 
