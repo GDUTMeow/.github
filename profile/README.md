@@ -45,6 +45,13 @@
 - [操作系统实验（华为基座类）题解](https://github.com/GDUTMeow/OperationgSystemExperiment)
 - [计算机组成原理 Quartus 实验题解](https://github.com/GDUTMeow/ComputerOrganizationExperiment)
 
+### 大三上
+
+- [密码学基础个人作业留档](https://github.com/GDUTMeow/CryptographyBasic)
+- [网络空间安全概论个人作业留档](https://github.com/GDUTMeow/CyberSecurityBasis)
+- [计算机系统体系结构个人作业留档](https://github.com/GDUTMeow/ComputerSystemArchitecture)
+- [数据库系统个人作业留档](https://github.com/GDUTMeow/DatabaseSystem)
+
 ## 工具类
 
 - [GDUT 体育/选修课抢课脚本](https://github.com/GDUTMeow/gdut-course-grabber)
